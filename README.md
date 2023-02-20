@@ -9,6 +9,10 @@
 
 **DO NOT MISUSE THIS SCRIPT**
 
+
+**COMMUNITY > https://t.me/thegeniuscodes**
+
+
 # COMPONENTS
 > HTML
 
