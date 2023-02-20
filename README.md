@@ -1,7 +1,7 @@
 # instagram-login-script
 **FREE SCRIPT**
 
-**COMMUNITY > https://t.me/thegeniuscodes**
+**MESSAGE ME > https://t.me/techiebrain**
 
 ![Screen Shot 2023-02-20 at 3 56 30 AM](https://user-images.githubusercontent.com/125784563/220118603-105a2949-81cb-497e-9739-34c571ad143d.png)
 
@@ -9,9 +9,7 @@
 
 **DO NOT MISUSE THIS SCRIPT**
 
-
-**COMMUNITY > https://t.me/thegeniuscodes**
-
+**MESSAGE ME > https://t.me/techiebrain**
 
 # COMPONENTS
 > HTML
@@ -25,7 +23,7 @@
 > IMG
 
 
-**COMMUNITY > https://t.me/thegeniuscodes**
+**MESSAGE ME > https://t.me/techiebrain**
 
 
 # USAGE 
@@ -36,7 +34,7 @@
 > SSL
 
 
-**COMMUNITY > https://t.me/thegeniuscodes**
+**MESSAGE ME > https://t.me/techiebrain**
 
 
 # LEGAL DISCLAIMER
