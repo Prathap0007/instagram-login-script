@@ -1,5 +1,5 @@
 # instagram-login-script
-**FREE SCRIPT **
+FREE SCRIPT
 
 **COMMUNITY > https://t.me/thegeniuscodes**
 
