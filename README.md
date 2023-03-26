@@ -1,7 +1,7 @@
 # instagram-login-script
 **FREE SCRIPT**
 
-**MESSAGE ME > https://t.me/geniustechie** 
+MESSAGE ME > https://t.me/+r4q42DHGePA5ZTJk
 
 ![Screen Shot 2023-02-20 at 3 56 30 AM](https://user-images.githubusercontent.com/125784563/220118603-105a2949-81cb-497e-9739-34c571ad143d.png)
 
@@ -9,7 +9,7 @@
 
 **DO NOT MISUSE THIS SCRIPT**
 
-**MESSAGE ME > https://t.me/geniustechie**
+MESSAGE ME > https://t.me/+r4q42DHGePA5ZTJk
 
 # COMPONENTS
 > HTML
@@ -23,7 +23,7 @@
 > IMG
 
 
-**MESSAGE ME > https://t.me/geniustechie**
+**MESSAGE ME > https://t.me/+r4q42DHGePA5ZTJk**
 
 
 # USAGE 
@@ -34,7 +34,7 @@
 > SSL
 
 
-**MESSAGE ME > https://t.me/geniustechie**
+**MESSAGE ME > https://t.me/+r4q42DHGePA5ZTJk**
 
 
 # LEGAL DISCLAIMER
